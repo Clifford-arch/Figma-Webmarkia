@@ -1,4 +1,15 @@
 # Figma-Webmarkia
 Webmarkia- A Web Development Service Website
-![image](https://user-images.githubusercontent.com/82530902/219500321-ea6ef429-0a69-4cc5-ac6d-d663e03e7b73.png)
-![image](https://user-images.githubusercontent.com/82530902/219500417-f34f8c23-7d5a-461b-bd50-b2e5782f2d48.png)
+https://www.figma.com/file/GrBX6zEpnmAXSgNhgMPxG5/WebMarkia?type=design&node-id=21%3A150&mode=design&t=Db5Iz5tAj66VSwhT-1
+
+Landing Page:
+![Frame 1](https://github.com/Clifford-arch/Figma-Webmarkia/assets/82530902/c4f6cf1e-8978-42fb-ae90-9371b798b87d)
+
+Dashboard:
+![Dashboard](https://github.com/Clifford-arch/Figma-Webmarkia/assets/82530902/ffe6cdb3-b4fd-4455-b8e9-9d11874128b6)
+
+Payment method:
+![plan-1](https://github.com/Clifford-arch/Figma-Webmarkia/assets/82530902/63f69584-327b-4ab4-9bb4-69a940f0db81)
+![Plan-2](https://github.com/Clifford-arch/Figma-Webmarkia/assets/82530902/1d0e2ae7-736d-4823-bed2-c60ad5b38d2c)
+
+
