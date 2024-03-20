@@ -1,6 +1,6 @@
 # Figma-Webmarkia
 Webmarkia- A Web Development Service Website
-https://www.figma.com/file/GrBX6zEpnmAXSgNhgMPxG5/WebMarkia?type=design&node-id=21%3A150&mode=design&t=Db5Iz5tAj66VSwhT-1
+https://www.figma.com/file/GrBX6zEpnmAXSgNhgMPxG5/WebMarkia?type=design&node-id=0%3A1&mode=dev&t=njiIVJfnkjzfk6SO-1
 
 Landing Page:
 ![Frame 1](https://github.com/Clifford-arch/Figma-Webmarkia/assets/82530902/c4f6cf1e-8978-42fb-ae90-9371b798b87d)
